@@ -1,0 +1,6 @@
+# MOD06_LAK_EX3
+NOMBRE: JOSÉ VICENTE TEJERO CALDERERA FECHA: 27/09/2020
+
+RESUMEN: Darle estilo a la página about con about.css.
+
+DIFICULTAD: 
